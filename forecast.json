@@ -1,0 +1,84 @@
+{
+    "forecast": [
+        {
+            "Wednesday": {
+                "city": "Carlsbad",
+                "state": "CA",
+                "zip": "92010",
+                "dayWeek": "Wednesday",
+                "time": "something",
+                "description": "Clear",
+                "currentTemp": 54,
+                "maxTemp": 74,
+                "minTemp": 54,
+                "precipitation": 0,
+                "humidity": 46,
+                "wind": 4
+            }
+        },
+        {
+            "Thursday": {
+                "city": "Carlsbad",
+                "state": "CA",
+                "zip": "92010",
+                "dayWeek": "Thursday",
+                "time": "something",
+                "description": "Mostly Sunny",
+                "currentTemp": 72,
+                "maxTemp": 72,
+                "minTemp": 53,
+                "precipitation": 0,
+                "humidity": 43,
+                "wind": 6
+            }
+        },
+        {
+            "Friday": {
+                "city": "Carlsbad",
+                "state": "CA",
+                "zip": "92010",
+                "dayWeek": "Friday",
+                "time": "something",
+                "description": "Partly Cloudy",
+                "currentTemp": 71,
+                "maxTemp": 71,
+                "minTemp": 54,
+                "precipitation": 0,
+                "humidity": 45,
+                "wind": 7
+            }
+        },
+        {
+            "Saturday": {
+                "city": "Carlsbad",
+                "state": "CA",
+                "zip": "92010",
+                "dayWeek": "Saturday",
+                "time": "something",
+                "description": "Mostly Sunny",
+                "currentTemp": 73,
+                "maxTemp": 73,
+                "minTemp": 54,
+                "precipitation": 0,
+                "humidity": 45,
+                "wind": 8
+            }
+        },
+        {
+            "Sunday": {
+                "city": "Carlsbad",
+                "state": "CA",
+                "zip": "92010",
+                "dayWeek": "Sunday",
+                "time": "something",
+                "description": "Sunny",
+                "currentTemp": 72,
+                "maxTemp": 72,
+                "minTemp": 56,
+                "precipitation": 0,
+                "humidity": 48,
+                "wind": 8
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Wednesday": {
+        "city": "Carlsbad",
+        "state": "CA",
+        "zip": "92010",
+        "dayWeek": "Wednesday",
+        "time": "something",
+        "description": "Clear",
+        "currentTemp": 54,
+        "maxTemp": 74,
+        "minTemp": 54,
+        "precipitation": 0,
+        "humidity": 46,
+        "wind": 4
+    }
+}
