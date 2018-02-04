@@ -10,6 +10,24 @@ INSTRUCTIONS:
 <br>
 <br>
 <br>
-Line 9 in the forecast.json
+forecast.json
 
-    "time": "Add your code here";
+    {
+    "forecast": [
+        {
+            "Wednesday": {
+                "city": "Carlsbad",
+                "state": "CA",
+                "zip": "92010",
+                "dayWeek": "Wednesday",
+                "time": "Add your code here",
+                "description": "Clear",
+                "currentTemp": 54,
+                "maxTemp": 74,
+                "minTemp": 54,
+                "precipitation": 0,
+                "humidity": 46,
+                "wind": 4
+            }
+        },
+    }
